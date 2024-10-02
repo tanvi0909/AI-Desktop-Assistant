@@ -1,3 +1,5 @@
+speechrecognition
+wikipedia
 groq
 numpy
 requests
